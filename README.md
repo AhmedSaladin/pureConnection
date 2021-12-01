@@ -1,5 +1,3 @@
-# pureConnection
-
 Hi there, I'm such an experiment for testing and working with pure HTTP, HTTPS, TCP protocols, and to describe how node.js handle these protocols,
 and how purely emit events and handle them.
 
